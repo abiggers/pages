@@ -1,0 +1,40 @@
+{
+  "name": "biggers-software",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://abiggers.github.io/pages/",
+  "dependencies": {
+    "3d-force-graph": "^1.45.6",
+    "d3-array": "^2.0.3",
+    "d3-scale": "^3.0.0",
+    "d3-selection": "^1.4.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abiggers/pages.git"
+  }
+}

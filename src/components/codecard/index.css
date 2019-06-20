@@ -1,0 +1,50 @@
+.cardhover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.box {
+    width: '100%';
+     outline-color: 'black';
+    outline-width: '1px';
+     outline-style: 'solid';
+      height: 120px; 
+      color: black;
+      padding: 1px;
+      background-color: white;
+}
+
+h3 {
+    padding: 5px
+}
+
+.tech-used {
+    float: right;
+    margin-top: 0px;
+    margin-right: 100px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(128,128,128,.2);
+}
+
+
+.selected {
+    width: 95%;
+    background-color: white;
+    outline-color: 'black';
+   outline-width: '1px';
+    outline-style: 'solid';
+     height: 95vh; 
+     color: black;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+
+    position: fixed;
+    top: 5%;
+    overflow: scroll;
+}
+
+
+.exitbutton:hover {
+    background-color: gray;
+}

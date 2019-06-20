@@ -1,0 +1,23 @@
+{
+  "main.css": "/pages/static/css/main.1786256c.chunk.css",
+  "main.js": "/pages/static/js/main.817fda7e.chunk.js",
+  "main.js.map": "/pages/static/js/main.817fda7e.chunk.js.map",
+  "runtime~main.js": "/pages/static/js/runtime~main.5e0a9daa.js",
+  "runtime~main.js.map": "/pages/static/js/runtime~main.5e0a9daa.js.map",
+  "static/js/2.4491b10c.chunk.js": "/pages/static/js/2.4491b10c.chunk.js",
+  "static/js/2.4491b10c.chunk.js.map": "/pages/static/js/2.4491b10c.chunk.js.map",
+  "index.html": "/pages/index.html",
+  "precache-manifest.85a3058b3f59aca0f376115b4131586d.js": "/pages/precache-manifest.85a3058b3f59aca0f376115b4131586d.js",
+  "service-worker.js": "/pages/service-worker.js",
+  "static/css/main.1786256c.chunk.css.map": "/pages/static/css/main.1786256c.chunk.css.map",
+  "static/media/Screenshot.png": "/pages/static/media/Screenshot.9b45d8a8.png",
+  "static/media/d3.svg": "/pages/static/media/d3.8dc2aabd.svg",
+  "static/media/matplotlib.svg": "/pages/static/media/matplotlib.f142ba0d.svg",
+  "static/media/mongodb.svg": "/pages/static/media/mongodb.2985235d.svg",
+  "static/media/mysql.svg": "/pages/static/media/mysql.f80a91ba.svg",
+  "static/media/nodejs.svg": "/pages/static/media/nodejs.95c2b958.svg",
+  "static/media/numpy.svg": "/pages/static/media/numpy.ae835dd9.svg",
+  "static/media/python.svg": "/pages/static/media/python.7e252e62.svg",
+  "static/media/react.svg": "/pages/static/media/react.5d5d9eef.svg",
+  "static/media/ubuntu.svg": "/pages/static/media/ubuntu.3a090741.svg"
+}

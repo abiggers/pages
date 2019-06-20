@@ -1,0 +1,30 @@
+#title {
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    height: 25px;
+    color: #fffff0ff;
+    border-radius: 1px 5px 0px 0px; 
+    
+
+}
+
+#title-text {
+width: 100%;
+font-size: 20px;
+}
+
+.container {
+display: flex;
+margin: 1vh 1% 0vw 1%;
+    
+}
+
+.jumbotron {
+    border-radius: 5px 5px 5px 5px; 
+    padding: 0px;
+    border-width: 1px;
+    border-color:grey;
+    border-style: solid;
+
+}

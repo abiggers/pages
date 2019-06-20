@@ -1,0 +1,63 @@
+[
+    {
+        "name": "TorCrawl",
+        "logo": "./src/resources/projects/TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the torcrawl project description this is the torcrawl project description this is the torcrawl project description this is the torcrawl project description this is the torcrawl project description this is the torcrawl project description"
+    },
+    {
+        "name": "headlesshooker",
+        "logo": "../resources/projects/TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the headlesshooker project description"
+    },
+    {
+        "name": "laughingcoffin",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the laughingcoffin project description"
+    },
+    {
+        "name": "fourthname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the fourthname project description"
+    },
+    {
+        "name": "5thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 5thname project description"
+    },{
+        "name": "6thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    },{
+        "name": "7thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    },{
+        "name": "7thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    },{
+        "name": "7thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    },{
+        "name": "7thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    },{
+        "name": "7thname",
+        "logo": "./TorCrawl/logoplaceholder.svg",
+        "directory": "./TorCrawl",
+        "description": "this is the 6thname project description"
+    }
+
+]
